@@ -23,12 +23,15 @@ end
 
 def using_sort(array)
 
-def elements.using_sort (array)
+def elements.sort (array)
 
 end
 
 def using_reverse(array)
 
+def .reverse (array)
+  
+end
 end
 
 def using_first(array)
