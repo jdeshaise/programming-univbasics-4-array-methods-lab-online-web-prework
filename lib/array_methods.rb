@@ -45,6 +45,9 @@ end
 
 def using_last(array)
 
+movies .last "Batman"
+
+
 end
 
 def using_size(array)
