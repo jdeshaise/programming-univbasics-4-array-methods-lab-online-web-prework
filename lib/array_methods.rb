@@ -36,7 +36,7 @@ end
 
 def using_first(array)
 
-def movies "spiderman","Boondocks","Batman"
+def movies = "spiderman","Boondocks","Batman"
 
   movies. first = 'spoderman"
 
@@ -51,5 +51,10 @@ movies .last "Batman"
 end
 
 def using_size(array)
+
+def movies = ["spiderman","Boondocks","Batman"]
+
+  movies.size 
+    => 3
 
 end
