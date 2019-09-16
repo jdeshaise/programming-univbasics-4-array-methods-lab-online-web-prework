@@ -36,6 +36,11 @@ end
 
 def using_first(array)
 
+def movies "spiderman","Boondocks","Batman"
+
+  movies. first = 'spoderman"
+
+
 end
 
 def using_last(array)
