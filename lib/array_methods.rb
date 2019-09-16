@@ -54,7 +54,7 @@ def using_size(array)
 
 def movies = ["spiderman","Boondocks","Batman"]
 
-  movies.size 
+  movies.size
     => 3
 
 end
