@@ -1,19 +1,17 @@
 def using_include(array, element)
 
- Array = Movie ["All Eyes On Me","spiderman", "snow white"]
-
- Array.include? (spiderman)
+ def using_include (array), (element)
+ Array.include? (element)
 
 
   def using_include(array, element)
-    array.include?(element)
+    
 
   end
 
 
   def using_include(array, element)
-    array.include?(element)
-
+    
   end
 
 end
