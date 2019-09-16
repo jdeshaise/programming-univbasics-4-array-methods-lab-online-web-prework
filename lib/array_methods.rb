@@ -23,6 +23,8 @@ end
 
 def using_sort(array)
 
+def elements.using_sort (array)
+
 end
 
 def using_reverse(array)
